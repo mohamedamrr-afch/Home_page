@@ -1,4 +1,4 @@
-# Homepage — CS50W Project 0
+# Homepage
 
 ## Overview
 Homepage is a simple multi-page personal website created as part of **CS50W Project 0**.  
