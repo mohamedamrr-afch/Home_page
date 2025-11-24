@@ -27,3 +27,12 @@ The site includes multiple pages, internal navigation, responsive layout, and cu
 ---
 
 ## File Structure
+homepage/
+│── index.html
+│── about.html
+│── hobbies.html
+│── contact.html
+│── styles.css
+│── /images
+│ └── profile.jpg
+└── README.md
